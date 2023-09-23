@@ -1,11 +1,13 @@
 body{
+  margin: 0px;
   background-color: #E8E8E8;
 }
 header{
   width: 90%;
-  height: 83px;
+  height: 90px;
   background-color: #fff;
   margin: auto;
+  margin-top: auto;
   
 
 }
